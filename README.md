@@ -13,9 +13,6 @@ Hello! My name is **Gary White** 👋, and I'm passionate about programming 💻
 - **Mathematics and Sciences**:
   - I am very good at **math**, **physics**, and **chemistry** 📐🔬.
 
-- **Training**: 
-  - I have been trained by a competent programmer for **1 year** 🎓, enhancing my skills and understanding of best practices in software development.
-
 - **Design**: 
   - Experienced in **face-to-face design** 🖌️, allowing me to effectively collaborate and communicate with clients and team members.
 
